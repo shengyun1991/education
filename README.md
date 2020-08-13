@@ -9,4 +9,6 @@
 添加信息：可以向系统中添加新的学历信息。
 修改信息：针对已存在的学历信息进行修改。
 
-
+效果图如下
+![image](https://github.com/shengyun1991/education/tree/master/img/html_login.png)
+![image](https://github.com/shengyun1991/education/tree/master/img/html_addEdu_info.png)
